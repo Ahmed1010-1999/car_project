@@ -1,8 +1,4 @@
-/**********************************/
-/* Author   : Abdalla Abdelhafiz  */
-/* Date     : 8/1/2022            */
-/* Version  : V01                 */
-/**********************************/
+
 #ifndef TIMER_H_
 #define TIMER_H_
 
