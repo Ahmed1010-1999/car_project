@@ -1,8 +1,4 @@
-/*********************************************************/
-/* Author  : Abdelrahman Mohamed              			 */
-/* Date     : 4 Jan	2022                   				 */
-/* Version  : V01                            			 */
-/*********************************************************/
+
 #ifndef STD_TYPES_H
 #define STD_TYPES_H
 #define NULL_PTR          ((void *)0)
