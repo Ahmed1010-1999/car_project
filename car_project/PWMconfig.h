@@ -1,9 +1,4 @@
 
-/**********************************/
-/* Author   : Abdalla Abdelhafiz  */
-/* Date     : 8/1/2022            */
-/* Version  : V01                 */
-/**********************************/
 #ifndef PWM_CONFIG_H_
 #define PWM_CONFIG_H_
 
